@@ -1,0 +1,13 @@
+﻿/* CSS Document */
+
+/* HEADER SECTION */
+.masthead {background-color: #ea2a6f;}
+
+/* MAIN SECTION */
+.main {background-color:#f5b7b1; width:80%; float:left; padding:10px;}
+
+/* SIDEBAR SECTION */
+.sidebar {background-color:#ffffff width:20%; float:right; padding:10px;}
+
+/* FOOTER SECTION */
+.realfooter {background-color:#82e0aa; width:20%; float:right; clear:both;}
